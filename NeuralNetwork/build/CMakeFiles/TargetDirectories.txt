@@ -1,0 +1,3 @@
+/home/sdb/github/DeepLearning/NeuralNetwork/build/CMakeFiles/edit_cache.dir
+/home/sdb/github/DeepLearning/NeuralNetwork/build/CMakeFiles/rebuild_cache.dir
+/home/sdb/github/DeepLearning/NeuralNetwork/build/CMakeFiles/image_test.dir

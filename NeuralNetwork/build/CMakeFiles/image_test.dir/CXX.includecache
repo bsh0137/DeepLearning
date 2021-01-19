@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/image.h
+iostream
+-
+opencv/cv.h
+../include/opencv/cv.h
+opencv/highgui.h
+../include/opencv/highgui.h
+image.h
+../include/image.h
+
+/home/sdb/github/DeepLearning/NeuralNetwork/src/image.cpp
+iostream
+-
+opencv/cv.h
+/home/sdb/github/DeepLearning/NeuralNetwork/src/opencv/cv.h
+opencv/highgui.h
+/home/sdb/github/DeepLearning/NeuralNetwork/src/opencv/highgui.h
+image.h
+/home/sdb/github/DeepLearning/NeuralNetwork/src/image.h
+
